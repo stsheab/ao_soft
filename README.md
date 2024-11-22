@@ -1,1 +1,1 @@
-![qwe](ao_soft.png)
+[qwe](ao_soft.png)
